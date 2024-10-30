@@ -6,5 +6,5 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Py-Python-brightgreen?logo=python">
 ## 👋 About me
 
-<img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
+<img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NikolayKuwera&show_icons=true&theme=tokyonight">
 
